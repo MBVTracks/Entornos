@@ -22,7 +22,7 @@ extraiga los 7 primeros caracteres para comprobar que funciona
             frase = cadena.charAt(i);
             System.out.print(frase);
         }
-        String cadena2 = "Hola mundo";
+
         System.out.println("\nLos 7 primeros caracteres de la frase " + cadena2 + " son: " + cadena.substring(0,7));
     }
 }
