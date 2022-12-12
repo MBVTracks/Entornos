@@ -23,6 +23,6 @@ extraiga los 7 primeros caracteres para comprobar que funciona
             System.out.print(frase);
         }
 
-        System.out.println("Linea borrada-");
+        System.out.println("Linea borrada.");
     }
 }
