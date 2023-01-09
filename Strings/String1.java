@@ -79,5 +79,6 @@ public class String1 {
                 lector.close();
             }
         }while(opcion !=11);
+        System.out.println("pequeño cambio");
     }
 }
